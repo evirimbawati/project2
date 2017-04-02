@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet"type"text/css"href="index.css>
+</head>
+
+<body>
+
+<p>hello word!this text should be blue because of the css I wrote in index.css!</p>
+<p>hello world</p>
+
+<script type ="text/javascript"SRC="index.js"></script>
+
+</body>
+
+</html>
